@@ -1,5 +1,5 @@
 # CoarseHash
-Benchmark datasets used in ICRA 2020 paper: Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations
+Benchmark datasets used in ICRA 2020 paper: Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations [[arxiv]](https://arxiv.org/abs/2001.08434)
 
 ## Generating Pseudo Localization Datasets
 
