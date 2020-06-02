@@ -1,5 +1,5 @@
 # CoarseHash
-Benchmark datasets used in ICRA 2020 paper: Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations [[arxiv]](https://arxiv.org/abs/2001.08434)
+Benchmark datasets used in ICRA 2020 paper: Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations [[arxiv](https://arxiv.org/abs/2001.08434)]
 
 ## Generating Pseudo Localization Datasets
 
@@ -37,7 +37,7 @@ The code is released under MIT License. FAS100K license is as specified on the d
 
 *If you find this repository useful or use these datasets, cite:*
 
-Garg, Sourav, and Michael Milford. "Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations." In 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
+Garg, Sourav, and Michael Milford. "Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations." In 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 
 bibtex:
 ```
