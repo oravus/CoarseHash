@@ -50,3 +50,9 @@ bibtex:
 ```
 
 
+## Related Projects
+[Delta Descriptors (2020)](https://github.com/oravus/DeltaDescriptors)
+
+[seq2single (2019)](https://github.com/oravus/seq2single)
+
+[LoST (2018)](https://github.com/oravus/lostX)
