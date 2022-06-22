@@ -1,2 +1,2 @@
-numpy==1.15.2
+numpy==1.22.0
 scikit_learn==0.22.2.post1
